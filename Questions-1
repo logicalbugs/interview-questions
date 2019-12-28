@@ -1,0 +1,30 @@
+Given an array of coin values [1, 3, 6] and a value, return the minimum number of coins that will add up to the value.
+ 
+Find the minimum number of coins needed to make an amount of change given coins = 1, 3, 5 
+
+Design a parking lot  
+
+Given daily prices of a stock, what is the maximum profit one can earn by buying and selling that stock?  
+
+Take an integer input and output the number of 1's in it's binary representation.
+
+Design a shopping cart system 
+Spring Bean Life cycle, Spring Transaction, Spring scopes. How is proxy scope implemented.
+
+Hibernate Lazy loading, Hibernate Detached state in session, caching in hibernate, Pagination in hibernate.
+
+JDBC overall questions how is it created and all.
+
+What are the advantages of using Apache CXF over Apache Axis ?  
+
+Tell me about the difference between Executors Service and Completion Service.
+
+What is the difference between -X and -XX arguments.
+
+What is covariance and contravariance in Generics?  
+
+What are the various Transaction propagation and Isolation levels and explain?  
+
+Questions on Streams and Predicates  
+
+Why did you use Hazelcast?  
