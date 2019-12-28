@@ -1,1 +1,33 @@
+Minimum number of characters to add to the front if string to make it a palindrome.
 
+Given a string s1, you need to add another string s2 at the end of s1, to make it Palindrome, return s2.
+
+Given a string with each words are rotated by character corresponding to a given number (k>=1) , find out how many words can be identified as not rotated about 
+
+given number. Basically check whether words about given index are palidromes or not, as rotation about middle index of palindromes gives the original word.
+
+Given a string. Find all palindromes that can be formed.
+
+Modified Longest Common Palindromic Substring.
+
+Words reversal - Constant space - without substring.
+
+Check if two strings are same if one of them is rotated by 'k'.
+
+Length of the longest substring without repeating characters.
+
+Modified version of string reversal.
+
+Find the first non-repeating character from a stream of characters.
+
+longest palimdromic subsequence.
+
+Longest common subsequence of vowel between 2 strings
+----ex: str1 = abcytehi, str2 = avceyyui common subsequence of vowels = aei, lcs = 3  
+
+Reverse string with spaces, in place. If string is a palindrome, append and prepend $
+-----ex: str1 = zebra bat ball, reversed : arbez tab llab
+		str2 = aba, reversed = $aba$  
+
+Find a longest common subsequence that all the characters present in the subsequence should be of vowels
+Eg : String 1: aieef     String 2: klaied     Answer: 3 (aie)
