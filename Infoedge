@@ -1,0 +1,55 @@
+what data structure will you use to implement an elevator?   
+design a database for a school and design tables in a most normalized form?   
+write a program to find if two trees are identical or not?   
+write a program to swap the nth and length-nth node of a linked list?  
+tower Hanoi
+shortest path problem 
+designing a tic tac toe game 
+1.Write a program to find frequency of each character in a string.
+2.Briefly explain Class, Object, Methods, Member variables, Encapsulation, Abstraction.
+3.Make a Queue using Stack.He asked to optimize number of push and pop operations.
+4.Make a Stack using Queue.
+3.Write a program which takes decimal number as input and gives Roman number as output.
+Ex: i/p: 8 o/p: VIII
+i/p: 43 o/p:XLIII
+range of numbers can vary from 1 to 1000.
+4. Design problem: Design database for facebook page subscribers. Write classes and functions involved to implement this. Further he added to implement facebook notification system.
+Given an array of size n. It contains numbers in the range 1 to n+2.Each number in the range is present in array except 2 numbers. Find the missing numbers.
+Database schema of Flipkart.
+largest palindrome substring in a string
+How to implement database of facebook
+Given to you is 900 digits, main memory can store 100 digits at a time, How u can sort these 900 numbers
+Dijkstra’s algo
+acid properties
+given-a-sequence-of-words-print-all-anagrams-together
+code to find whether two strings are anagram or not
+what is indexing
+1.find all prime numbers till a number(sieve-of-eratosthenes/)
+2.find missing and repeating numbers in a file of 1000 lines with a number between 1-1000 on every line(similar to find-a-repeating-and-a-missing-number/)
+no of squares in a chessboard,
+total count of handshake in a room with x number of people,
+code to check whether a particular number is a power of 4 or not
+They asked difference between spring and springboot, microservices, service discovery etc.   
+DS question to make row and column 0 of a matrix, if i,j contains zero then make ith row 0 and jth column 0.
+Write a function which returns n th  element of sequence ? 5 , 25 , 30 , 125 , 130 , 150 , 155 ...........
+Binary Tree Question : Given a binary search tree of  integers (distinct), find sum of all integers smaller or equal to k. There can be q such queries but you can answer in case of just 1 such query also.
+Remove repeating consequent characters from a large string.
+Given two unsorted arrays,find closest pair of numbers
+it was in the coding round. Given a center and a radius, draw a circle without using graphics library.   
+If you have a text of many million words, how would you find out the most commonly occurring one. 
+Given a number, output binary representation of that number.
+  
+Implement quicksort and print all elements after some given index.
+
+Given an input array, modify it such that it contains alternate minimum and maximum elements.
+
+i/p : a= 1,3,5,6,2,4,7,8 sort it 1,2,3,4,5,6,7,8
+o/p : a=1,8,2,7,3,6,4,5
+given a string with unbalanced parantheses, o/p the correct string.
+ip: (a+b)))*(((c-t)
+op: (a+b)*(c-t)
+write a program api to create, maintain and search a phone address book. Give the suitable tables and data structures required 
+Difference between abstract class and interface in java
+what is indexing in dbms? ques related to transaction in dbms.What do u mean by ACID properties etc
+1) find the second smallest ancestor of two node (if present)
+2) design the Voltage Regulator (OOPs)
