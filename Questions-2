@@ -1,0 +1,102 @@
+1.    Print the number of distinct elements in the array for every frame of size k
+2.    Print every path in the tree with sum of the nodes in the path equal k from (root to leaf), follow up path can start from any node in tree.
+3.    Clone tree or linked list with random pointer
+4.    Maximum product of three number in array
+5.    Convert binary tree to doubly linked list
+6.    Diameter of binary tree
+7.    Range minimum query using segment tree Check whether the tree is BST. (O(n) time).
+9.    Check whether the Linked List is Palindrome
+10.   First non-repeating number in a stream of numbers.
+11.   Check linked list with loop is palindrome or not
+12.   Add two numbers represented by linked list
+13.   Add 1 to number represented as linked list
+14.   Pairwise swap of elements of linkedlist
+15.   Reverse a doubly linked list
+16.   Given an array, find maximum j – I such that arr[j]>arr[i]
+17.   Find maximum repeating element in O(n) time and O(1) extra space
+18.   Rearranging array in alternating positive and negative elements while maintaining order with O(1) extra space
+19.   Count inversions of size 3 in given array
+20.   Count pairs with given sum
+21.   Inorder , PostOrder ,PreOrder tree traversal without recursion
+22.   Construct tree from given preorder and Inorder traversals
+23.   Print nodes at k distance from root
+24.   Design a data structure that can be used for keypad search
+25.   Maximum width of a binary tree
+26.   Design metro travel system
+27.   Print common nodes in two BSTs
+28.   Find if any anagram of a given string can be palindrome or not
+29.   Loop in the link list – followup  question find starting point of the loop, length of the loop
+30.   Find next biggest number of the given number (from the same digits) eg. Given number 123, next biggest – 132
+31.   Sort a given number in o(n). can use constant space for eg. Given number 789356 – output – 356789
+32.   How do you find if a tree is unbalanced.
+33.   Convert an unbalanced tree to balanced.
+34.   Find the maximum sum of a subarray in an array.
+35.   nXm matrix each row and column is sorted, find an element in best possible way.
+36.   Design food order/delivery app
+37.   Top/Bottom/Left/Right view of a tree
+38.   Level traversal in best possible way
+39.   In a BT, check if the sum of two nodes is also present in the tree
+40.   Add two singly linked lists
+41.   Merge two sorted linked lists
+42.   Design Uber
+43.   In a NxN matrix, Shortest path from one position to another
+44.   Get the longest palindrome in a string which contains multiple palindromes
+45.   Design an Elevator System
+46.   Given a stream of numbers, get the 7 largest numbers ( code required )
+
+Java
+1.   Collections.synchronizedList, how does it work internally? If you were to write such an API, how would you do it ?
+2.   Singleton design pattern – make it thread safe
+3.   Design a distributed cache
+4.   Problems to solve with Reflection, Serialization etc.
+
+Spring/Hibernate
+1.   How does Autowiring, Component Scanning work internally ?
+2.   Example of Spring-Hibernate/ORM integration
+3.   Spring Transaction, JDBCTemplate, Isolation levels etc
+4.   Hibernate caching levels
+5.   Spring Web MVC
+6.   Spring Junit testing, mocking etc
+7.   Spring Resource Handling
+8.   Spring Design patterns (template, factory, interceptor etc)
+
+Multi-threading
+1.   CyclicBarrier/CountdownLatch, when to use which one with examples
+2.   Atomic Variables, volatile, statics in multi-threading etc
+3.   Design a ThreadPool ( or ConnectionPool )
+4.   Problems that involve Fork/Join ( can use just Threads or Executors for this)
+5.   Concurrent APIs
+
+1. Create queue using statck.
+2. Occurrence of number in An Integer Array.---
+3. PostOrder in Tree Traversal
+4. CyclicBarrier/CountdownLatch, Hashmap, tree
+5. Level Order Traversal
+6. Garbage Collections Heap Stack
+7. Delete element less than x from a linkedlist of size n
+
+
+------------------PayTm-------------------------
+
+1.  Running median of a stream of integers, 
+2.  Triplet sum equal to 0.
+4.  LRU cache implementation layout, 
+3.  MAP implementation layout, 
+5.  ZIP ZAG tree traversal. 
+6.  Given an sorted but rotated array, how to find a number in logn time.
+7.  Find missing element in an AP. Desired solution in logn time. Binary Search can apply
+7.  How would you optimize the database table with billion records?  
+8.  Finding out maximum contiguous sum in array   
+9.  Out of 200 fish in an aquarium, 99% are red. How many red fishes must be removed in order to reduce at 98%?
+10. Projects from CV.
+11. Difference between tcp and udp.
+12. Reverse a linked list.
+13. Search an element in a sorted array.
+14. Search an element in a sorted and rotated array.
+15. Given two sorted arrays of size m and n respectively, find the element that would be at the k-th position of the final sorted array.
+16. Given k sorted streams where each streams could be infinite length,describe an efficient algorithm to merge them into a sorted streams.
+17. Find the first non-repeating character from a stream of characters.
+18. Design a Bus Booking Database System.
+19. Binary Search implementation.
+20. Matrix Traversals (DFS/BFS).
+21. Hashing.
