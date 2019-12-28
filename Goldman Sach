@@ -1,0 +1,35 @@
+1) You have the co-ordinates of two rectangles. Find in minimum number of comparisons, if they are overlapping or not.
+1)  Write code for implementing Tower of Hanoi problem. What data structures you will use? 
+2)  How will you implement the Move function(that moves the disc).
+3)  Program for Anagrams. Different approaches(hashing, sorting)
+4)  Code for first non-repeating character in the string
+5)  Least Common Ancestor for n-ary Tree.
+6)  Find whether the given number is power of 10 or not.  
+7)  Find the pairs such that there sum will be equal to X.  
+8)  Write a piece of code to determine whether two words are anagrams.
+9)  Pseudo code to insert element into Binary search tree (iterative & recursive) 
+10) Write a piece of code to determine whether a binary tree is a binary search tree or not.
+11) Implement a BST with the methods `put(t)`, `contains(t)` and `in_order_traversal`. Get the failing unit tests to pass.
+12) Given an array of integers, and a number ‘sum’, find the number of pairs of integers in the array whose sum is equal to ‘sum’.   
+13) Given a sorted array which has been rotated k times , need to find k?
+14) Write a method to calculate the cubic root of a number to 3 decimal places.
+15) A kid wants to travel up n steps. She can only go 1, 2 or 3 steps at a time. How many different ways can she get to the nth step? 
+16) Write a piece of code to combine fractions from two arrays into a single array.
+17) How would you print all possible permutations for the first n(input) natural numbers 
+18) Write a piece of code to determine whether a number is a palindrome.
+19) You have a ladder of X steps. You can go up the ladder by taking either one or two steps each time. Write a function to determine how many potential different combinations of one or two steps you could take to the top of the ladder.
+20) Given two strings ‘X’ and ‘Y’, find the length of the longest common substring.
+21) Why is a binary tree better than a hash table?
+22) Why is a hash table better than a binary tree?
+23) What’s the difference between a process and a thread?
+24) When would you use a thread instead of a process?
+25) How does garbage collection work in Java?
+26) What differentiates propositional logic from first order logic? Which is better?
+27) What’s the difference between Java Heap Space and Stack Memory?
+28) What are abstract classes in Java? What’s their purpose?
+29) Find the maximum value in this binary tree.
+30) How would you write a program to find the biggest number in a list of 10 numbers?
+31) Write a piece of code to find the square root of a double number.
+32) What’s role-based access control? How would you implement it?
+33) How do you calculate linear regression using the least squares method?
+34) What is the angle between the hour and minute hand of a clock at 3.15?
