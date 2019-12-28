@@ -1,1 +1,16 @@
 
+Print spiral matrix.
+
+WAP to search a number in a row-wise – column wise sorted matrix.
+
+90degree rotation
+
+Find pair from 2 2d matrix such that there sum is equal to given sum.
+
+A 2D matrix of 0s and 1s is given. The 1s are adjacent to one other horizontally, vertically and diagonally. Find of the max count of such adjacent 1s.
+
+Given a matrix of 0s and 1s. Find the count of number of 1s of the largest island.
+
+n queen problem
+
+Number of ways to reach from src to destination in given mXn matrices
