@@ -1,0 +1,99 @@
+Storage Scalability
+Design Cache Amazon Facebook Google Ola Cabs
+Quicker you solve the problem, more points you will get. Ready to move to the problem ?
+----------Arrays
+Kth Row of Pascal's Triangle Simulation array Google
+Rotate Matrix Arrangement Google Facebook Amazon
+Merge Intervals Value ranges Google
+Merge Overlapping Intervals Value ranges Google Amazon
+Add One To Number Array Math Google
+N/3 Repeat Number Missing / Repeated number Google
+Pascal Triangle Simulation array Google Amazon
+Max Distance Bucketing Bucketing or sorting Google Amazon
+Max Non Negative SubArray Simulation array Google
+Wave Array Bucketing Bucketing or sorting Google Adobe
+System Design Interview Questions
+Design Messenger Amazon Amazon Lab126 Facebook Google Twitter
+Design Search Typeahead Facebook Google
+-----------Math
+Grid Unique Paths Combinatorics Google Amazon Microsoft Adobe
+Greatest Common Divisor Number theory NetApp Google
+Sum of pairwise Hamming Distance Adhoc Google
+-----------Binary Search
+Median of Array Sort modification Amazon VMWare Google Microsoft
+Search for a Range Simple binary search Google Microsoft
+Implement Power Function Search step simulation Google LinkedIn
+Rotated Sorted Array Search Sort modification Facebook Google Microsoft Amazon
+Allocate Books Search answer Google
+Painter's Partition Problem Search answer Google
+----------Strings
+Longest Common Prefix string Simulation Google
+Multiply Strings String math Microsoft Google
+Justified Text Pretty print LinkedIn Google
+----------Bit Manipulation
+Single Number II Bit array Google Amazon
+Different Bits Sum Pairwise Bit play Google
+----------Two Pointers
+Intersection Of Sorted Arrays Multiple arrays Facebook Google
+Remove Duplicates from Sorted Array Inplace Update United Healthgroup Amazon Google Microsoft Expedia
+Array 3 Pointers Tricks Google Microsoft Yahoo
+Container With Most Water Tricks Facebook Google Amazon
+3 Sum Zero Sorting Facebook Google
+----------Linked Lists
+Sort List List sort Google
+Insertion Sort List List sort Microsoft Google
+----------Stacks And Queues
+Evaluate Expression Stack math Yahoo Google Facebook
+Largest Rectangle in Histogram cleverstack Google Facebook
+Sliding Window Maximum cleverstack Google Chronus Walmart labs Amazon
+----------Backtracking
+All Unique Permutations Microsoft Facebook Google
+Permutations Permutations Microsoft Adobe Google
+NQueens Game solving Pruned builder Qualcomm Google Amazon
+Palindrome Partitioning Bruteforce builder Pruned builder Amazon Google
+-----------Hashing
+Window String Hashing two pointer Google Directi
+Longest Consecutive Sequence Amazon Google
+4 Sum Hash Search Amazon Google
+Points on the Straight Line Maths and hashing Google Amazon InMobi
+2 Sum Hash Search Facebook Amazon Google
+Valid Sudoku Hash Search Google Amazon
+-----------Heaps And Maps
+Merge K Sorted Lists heap Flipkart Amazon Google
+Tree Data Structure
+Least Common Ancestor Tree search Facebook Adobe Microsoft Amazon Google
+Sum Root to Leaf Numbers Root to leaf Google Microsoft
+Order of People Heights Interval Tree Google
+Shortest Unique Prefix Trie Google
+Invert the Binary Tree Inplace Change Google
+-----------Dynamic Programming
+Max Rectangle in Binary Matrix Matrix DP preprocess DP Google Microsoft
+Distinct Subsequences 2D string DP Google
+Palindrome Partitioning II Breaking words Amazon Google
+Min Jumps Array Greedy OR DP Amazon Ebay Google
+Edit Distance 2D string DP Google LinkedIn Microsoft Amazon
+Word Break Breaking words IBM Google
+Regular Expression II 2D string DP Facebook Microsoft Google
+Interleaving Strings 2D string DP Google Yahoo
+Word Break II DP optimized backtrack IBM Google
+Longest valid Parentheses DP tricky Google
+Repeating Sub-Sequence 2D string DP Google
+Rod Cutting Matrix DP Google
+Sub Matrices with sum Zero Suffix / prefix DP Google dynamic programming
+Shortest common superstring DP tricky Google dynamic programming
+-----------Greedy Algorithm
+Gas Station Bucket 2 Bloomberg Google DE Shaw Amazon
+Majority Element Bucket 3 Microsoft Yahoo Google
+Graph Data Structure & Algorithms
+Convert Sorted List to Binary Search Tree graph adhoc Google
+Capture Regions on Board graph traversal graph connectivity Google
+Word Ladder II Shortest path Google Microsoft Ebay
+Clone Graph graph hashing Google Facebook Amazon
+Word Ladder I Shortest path Google Microsoft Ebay
+Largest Distance between nodes of a Tree Depth first search Facebook Google DP on a tree Depth first search
+----------Puzzles
+Daughters' Ages Logical deduction Google
+Cross the Bridge Math Google Microsoft
+Divide the Cake Geometry and shapes Google
+Eggs and Building Math Google Nvidia
+Ratio of Boys and Girls Math Google
