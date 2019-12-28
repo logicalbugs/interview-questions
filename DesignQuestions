@@ -1,1 +1,71 @@
 
+https://github.com/shashank88/system_design
+1. TinyURL or bitly (a URL shortening service)
+How to generate a unique ID for each URL?
+How would you generate unique IDs at scale (thousands of URL shortening requests coming every second)?
+How would your service handle redirects?
+How would you support custom short URLs?
+How to delete expired URLs etc?
+How to track click stats?
+
+2. Design YouTube, Netflix or Twitch (a global video streaming service)
+
+3. Design Facebook Messenger or WhatsApp (a global chat service)
+How would you design one-on-one conversations between users?
+How would you extend your design to support group chats?
+What to do when the user is not connected to the internet?
+When to send push notifications?
+Can you provide end-to-end encryption. How?
+
+4. Designing Quora or Reddit or HackerNews (a social network + message board service)
+Records stats for each answer e.g. the total number of views, upvotes/downvotes, etc.
+Users should be able to follow other users or topics
+Their timeline will consist of top questions from all the users and topics they follow (similar to newsfeed generation).
+
+5. Design Dropbox or Google Drive or Google Photos (a global file storage & sharing service)
+How would users be able to upload/view/search/share files or photos?
+How would you track persmissions for file sharing
+How would you allow multiple users to edit the same document
+
+6. Design Facebook, Twitter or Instagram (a social media service with hundreds of millions of users)
+Efficient storage and search for posts or tweets.
+Newsfeed generation
+Social Graph (who befriends whom or who follows whom — specially when millions of users are following a celebrity)
+
+7. Design Uber or Lyft (a ride sharing service)
+The most critical use case — when a customer requests a ride and how to efficiently match them with the nearby drivers?
+How to store millions of geographical locations for drivers and riders who are always moving.
+How to handle updates to driver/rider locations (millions of updates every second)?
+
+8. Design a Web Crawler or Type-Ahead (search engine related services)
+For Type-Ahead, as the user types in their query, you need to design a service which would suggest top 10 searched terms starting with whatever the user has typed. Discuss things like:
+How to store previous search queries?
+How to keep the data fresh?
+How to find the best matches to the already typed string?
+How to handle updates and the user is typing too fast?
+
+For Web Crawler, we have to design a scalable service that can crawl the entire Web, and can fetch hundreds of millions of Web documents. Discuss things like:
+How to find new web pages?
+How to prioritize web pages that change dynamically?
+How to ensure that your crawler is not infinitely stuck on the same domain?
+
+9. Design an API Rate Limiter (e.g. for Firebase or Github)
+Limit the number of requests an entity can send to an API within a time window e.g., 15 requests per second.
+The rate limiting should work for a distributed setup, as the APIs are accessible through a cluster of servers.
+How would you handle throttling (soft and hard throttling etc.).
+
+10. How to design a traffic control system?
+
+A classical system design question from old age is still popular. Make sure you know how to transition from one state to another like RED to GREEN and from GREEN to ORANGE to RED, etc. One tip is you can use the state design pattern because there is a clear transition of state from one to other. For example, you cannot go from RED to GREEN before ORANGE or so on.
+
+You can also use the Enum to represent the state and implement the pattern, just as we did with the strategy design pattern in my last article.
+
+If you are not familiar with these essential patterns, then I suggest you to first take a look at this Design Pattern Library course on Pluarslight, one of the better resources to learn this pattern and get insight on how and when to use them in the real world.
+
+11. How to design a vending machine in Java? (solution)
+
+You need to write code to implement a vending machine that has a bunch of products, e.g. chocolates, candy, cold drinks, and accepts different coins, e.g. nickles, dimes, quarters, cent, etc. Make sure you insert a coin, get a product back, and get your change back. Also, write the unit test to demonstrate that these common use cases work. If you get stuck, you can read my two-part series (Part 1 and Part 2) about solving these classical system design questions.
+
+12. How to design an ATM machine?
+
+13. How to design BookMyShow?
