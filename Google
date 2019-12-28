@@ -1,0 +1,245 @@
+There are N gas stations along a circular route, where the amount of gas at station i is gas[i].
+
+You have a car with an unlimited gas tank and it costs cost[i] of gas to travel from station i to its next station (i+1). You begin the journey with an empty tank at one of the gas stations.
+
+Return the minimum starting gas station’s index if you can travel around the circuit once, otherwise return -1.
+
+You can only travel in one direction. i to i+1, i+2, ... n-1, 0, 1, 2..
+Completing the circuit means starting at i and ending up at i again.
+
+
+Given an array of size n, find the majority element. The majority element is the element that appears more than floor(n/2) times.
+You may assume that the array is non-empty and the majority element always exist in the array.
+Input : [2, 1, 2]
+Return  : 2 which occurs 2 times which is greater than 3/2.
+
+Given a 2D binary matrix filled with 0’s and 1’s, find the largest rectangle containing all ones and return its area.
+Bonus if you can solve it in O(n^2) or less.
+A : [  1 1 1
+       0 1 1
+       1 0 0 
+    ]
+Output : 4 
+As the max area rectangle is created by the 2x2 rectangle created by (0,1), (0,2), (1,1) and (1,2)
+
+Given two sequences S, T, count number of unique ways in sequence S, to form a subsequence that is identical to the sequence T.
+Subsequence : A subsequence of a string is a new string which is formed from the original string by deleting some (can be none ) of the characters without disturbing the relative positions of the remaining characters. (ie, "ACE" is a subsequence of "ABCDE" while "AEC" is not).
+S = "rabbbit" 
+T = "rabbit"
+
+Given a string s, partition s such that every substring of the partition is a palindrome.
+Return the minimum cuts needed for a palindrome partitioning of s.
+Example :
+Given
+s = "aab",
+Return 1 since the palindrome partitioning ["aa","b"] could be produced using 1 cut. 
+
+Given two words A and B, find the minimum number of steps required to convert A to B. (each operation is counted as 1 step.)
+
+You have the following 3 operations permitted on a word:
+
+    Insert a character
+    Delete a character
+    Replace a character
+
+Example :
+edit distance between
+"Anshuman" and "Antihuman" is 2.
+
+    Operation 1: Replace s with t.
+    Operation 2: Insert i.
+
+	
+Given an array of non-negative integers, you are initially positioned at the first index of the array.
+
+Each element in the array represents your maximum jump length at that position.
+
+Your goal is to reach the last index in the minimum number of jumps.
+
+Example :
+Given array A = [2,3,1,1,4]
+
+The minimum number of jumps to reach the last index is 2. (Jump 1 step from index 0 to 1, then 3 steps to the last index.)
+If it is not possible to reach the end index, return -1.
+Given a string s and a dictionary of words dict, determine if s can be segmented into a space-separated sequence of one or more dictionary words.
+For example, given
+s = "myinterviewtrainer",
+dict = ["trainer", "my", "interview"].
+Return 1 ( corresponding to true ) because "myinterviewtrainer" can be segmented as "my interview trainer".
+Return 0 / 1 ( 0 for false, 1 for true ) for this problem
+
+
+Implement regular expression matching with support for '.' and '*'.
+'.' Matches any single character.
+'*' Matches zero or more of the preceding element.
+The matching should cover the entire input string (not partial).
+The function prototype should be:
+int isMatch(const char *s, const char *p)
+isMatch("aa","a") → 0
+isMatch("aa","aa") → 1
+isMatch("aaa","aa") → 0
+isMatch("aa", "a*") → 1
+isMatch("aa", ".*") → 1
+isMatch("ab", ".*") → 1
+isMatch("aab", "c*a*b") → 1
+Return 0 / 1 ( 0 for false, 1 for true ) for this problem
+
+
+Given s1, s2, s3, find whether s3 is formed by the interleaving of s1 and s2.
+
+Example,
+Given:
+
+s1 = "aabcc",
+s2 = "dbbca",
+
+When s3 = "aadbbcbcac", return true.
+When s3 = "aadbbbaccc", return false.
+
+Return 0 / 1 ( 0 for false, 1 for true ) for this problem
+
+
+Design a distributed key value caching system, like Memcached or Redis.
+
+Given an index k, return the kth row of the Pascal’s triangle.
+Pascal’s triangle : To generate A[C] in row R, sum up A’[C] and A’[C-1] from previous row R - 1.
+Example:
+Input : k = 3
+Return : [1,3,3,1]
+NOTE : k is 0 based. k = 0, corresponds to the row [1]. 
+
+
+You are given an n x n 2D matrix representing an image.
+Rotate the image by 90 degrees (clockwise).
+You need to do this in place.
+Note that if you end up using an additional array, you will only receive partial score.
+Example:
+If the array is
+[
+    [1, 2],
+    [3, 4]
+]
+Then the rotated array becomes:
+[
+    [3, 1],
+    [4, 2]
+]
+
+Given a set of non-overlapping intervals, insert a new interval into the intervals (merge if necessary).
+You may assume that the intervals were initially sorted according to their start times.
+Example 1:
+Given intervals [1,3],[6,9] insert and merge [2,5] would result in [1,5],[6,9].
+Example 2:
+Given [1,2],[3,5],[6,7],[8,10],[12,16], insert and merge [4,9] would result in [1,2],[3,10],[12,16].
+This is because the new interval [4,9] overlaps with [3,5],[6,7],[8,10].
+Make sure the returned intervals are also sorted.
+
+Given a collection of intervals, merge all overlapping intervals.
+For example:
+Given [1,3],[2,6],[8,10],[15,18],
+return [1,6],[8,10],[15,18]
+
+You’re given a read only array of n integers. Find out if any integer occurs more than n/3 times in the array in linear time and constant additional space.
+If so, return the integer. If not, return -1.
+If there are multiple solutions, return any one.
+Example :
+Input : [1 2 3 1 1]
+Output : 1 
+1 occurs 3 times which is more than 5/3 times. 
+
+Given an array A of integers, find the maximum of j - i subjected to the constraint of A[i] <= A[j].
+
+If there is no solution possible, return -1.
+Example :
+A : [3 5 4 2]
+Output : 2 
+for the pair (3, 4)
+
+There are two sorted arrays A and B of size m and n respectively.
+Find the median of the two sorted arrays ( The median of the array formed by merging both the arrays ).
+The overall run time complexity should be O(log (m+n)).
+Sample Input Output 3
+A : [1 4 5]
+B : [2 3]
+
+Given a sorted array of integers, find the starting and ending position of a given target value.
+Your algorithm’s runtime complexity must be in the order of O(log n).
+If the target is not found in the array, return [-1, -1].
+Example:
+Given [5, 7, 7, 8, 8, 10]
+and target value 8,
+return [3, 4].
+
+Implement pow(x, n) % d.
+In other words, given x, n and d,
+find (xn % d)
+Note that remainders on division cannot be negative.
+In other words, make sure the answer you return is non negative.
+Input : x = 2, n = 3, d = 3
+Output : 2
+2^3 % 3 = 8 % 3 = 2.
+
+Given a collection of numbers that might contain duplicates, return all possible unique permutations.
+Example :
+[1,1,2] have the following unique permutations:
+
+[1,1,2]
+[1,2,1]
+[2,1,1]
+
+[1,2,3] will have the following permutations:
+
+[1,2,3]
+[1,3,2]
+[2,1,3] 
+[2,3,1] 
+[3,1,2] 
+[3,2,1]
+
+Given a string s, partition s such that every string of the partition is a palindrome.
+
+Return all possible palindrome partitioning of s.
+
+For example, given s = "aab",
+Return
+
+  [
+    ["a","a","b"]
+    ["aa","b"],
+  ]
+
+The n-queens puzzle is the problem of placing n queens on an n×n chessboard such that no two queens attack each other.
+Given an integer n, return all distinct solutions to the n-queens puzzle.
+
+Each solution contains a distinct board configuration of the n-queens’ placement, where 'Q' and '.' both indicate a queen and an empty space respectively.
+
+For example,
+There exist two distinct solutions to the 4-queens puzzle:
+
+
+Intersection of two numerical arrays   
+
+Given a series of words written using a scrambled alphabet, figure out what order the letters of the alphabet are in.   
+
+Assume a matrix of integers they are sorted in boh row and column vice .. how do u find a given number from the matrix in a optimal way?
+
+Come out with an algorithm for getting the column number provided the column name in a excel sheet and vice versa. Excel has a naming convention of A,B..Z,AA,AB,AC..ZZ,AAA... This had to be converted to the column numbers. A will be 1 and AA will 27.. Also the algorithm to find the name provided column number.
+
+Given n numbers (P1,P2,P3,.....Pn). Divide them in m contiguous partitions such that the sum of the maximum is minimum. For e.g. (5,1,4,2,3) and m =2 then (5,1)(4,2,3)
+
+Given two numbers m and n, write a method to return the first number r that is divisible by both (e.g., the least common multiple).
+
+Design an in memory word processor. Implement cut, copy, paste, formatting, recoverability etc.
+
+Write the code to check if graph is bipartite or not?
+
+Binary Search Tree how many 0's in 100!
+
+Find the median of an incoming stream of integers.
+
+Given a string , reverse the vowels in it ( with and without using extra memory ) Given a set of points, find the smallest rectangle by area. Trie data structure . Basically the question was given a prefix how do you retrieve the words from a large dictionary and then how to perform insert operations etc. Overlapping handshake problem . How many combinations of handshakes are possible in a round table of n people such that there is no overlap of handshake between 2 people with any other handshake ( n is even)
+
+
+If 6 balls are given and you don't know the weight. how will you balance them equally in 5 moves?
+
+Given a dictionary of strings and another string find out if the string is an exact match to some words in the dictionary or varies at most in only one place of some word of the dictionary.
