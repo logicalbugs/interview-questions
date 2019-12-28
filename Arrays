@@ -57,4 +57,60 @@ Fixed point in sorted array ----> Binary search is the solution
 Reorder array using given indexes ---> exchange one array element to other is the solution
 Find the lost element from a duplicated array --- XOR of each element
 Maximum element in an array which is increasing and then decreasing -- Binary Search
-
+Smallest positive number missing unsorted array
+Find pair with given difference
+Count possible triangles ---->sort the array and go with two loops.
+Maximum Repeating Number -----> If we want to get the original array back, we can iterate through the array one more time and do arr[i] = arr[i] % k where i varies from 0 to n-1.
+Positive Negative Arrangement ---> left right traversal like quick short
+Find a Peak element
+Shuffle a given array -- iterate from last and generate random number 0-i and inter change the index
+Number of smaller elements on right side -- two loops or self balancing tree
+Largest subarray with equal number of 0's and 1's
+Replace every element with the greatest on the right side in an array
+Sorting a k sorted array---- Use a heap or priority qeueu to store 0 to K element then push and pop
+Merge Overlapping Intervals
+Count of triplets with sum less than given value
+Search in a nearly sorted array in O(logn) time
+Maximum circular subarray sum
+Max Product Subsequence
+Maximum product subarray
+Product Array Puzzle ---- take sum of each element logs and then take back the antilog sum - log of current element
+Arrange given numbers to form the biggest number
+Stock Buy Sell to Maximize Profit
+Minimum element in a sorted and rotated array
+Merge k Sorted Arrays
+Flip Zeroes for Consecutive 1's
+Least Average Subarray
+Minimum difference between any two elements in an array
+Number of pairs with given sum
+Make Array Palindrome
+Rearrange the array with alternate high and low elements
+Sort binary array in linear time
+Sort an array containing 0’s, 1’s and 2’s (Dutch national flag problem)
+Find equilibrium index of an array
+Move all zeros present in the array to the end
+Find max sub-array with 0 sum
+Find maximum sequence of continuous 1’s formed by replacing at-most k zeroes by ones
+Find minimum sum subarray of given size k
+Find subarray having given sum in given array of integers
+Find the length of smallest subarray whose sum of elements is greater than the given number
+Find largest number possible from set of given numbers
+Find the smallest window in array sorting which will make the entire array sorted
+Find maximum sum path involving elements of given arrays
+Maximum profit earned by buying and selling shares any number of times
+Trapping Rain Water within given set of bars
+Longest Increasing Subsequence
+Find maximum sum of subsequence with no adjacent elements
+Find minimum platforms needed in the station so to avoid any delay in arrival of any train
+Check if given array represents min heap or not
+Convert Max Heap to Min Heap in linear time
+Find K’th largest element in an array
+Sort a K-Sorted Array
+Merge M sorted lists of variable length
+Find K’th smallest element in an array
+Find smallest range with at-least one element from each of the given lists
+Merge M sorted lists each containing N elements
+Iterative Implementation of Quicksort
+Hybrid QuickSort
+External merge sort
+0-1 Knapsack problem
