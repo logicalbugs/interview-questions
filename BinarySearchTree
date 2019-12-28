@@ -1,0 +1,16 @@
+In order traversal using stacks.
+Print a level order traversal.
+Print a reverse level order traversal with elements from left side of a particular height of tree comes first.
+Wap to print left/right/Top/bottom view of a binary tree.
+LCA of BST
+Shift all even nodes to one side and odd nodes to other side
+Balance a BST.
+Given a binary tree, check whether it has dead ends or not.
+DS questions like zig zag tree traversal. 
+Check If two nodes are cousins in binary tree. BFS and DFS.
+Print the leaf nodes of Binary Tree. 
+IsBST - With Best time complexity
+Pair sum in BST - Single Traversal, Space constraints
+Max Path Sum Traversal - Optimized Space, Time.
+Print the tree in Spiral order
+Mirror of binary tree?
