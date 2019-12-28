@@ -1,1 +1,17 @@
+Length of Longest Increasing Subsequence - Dp craete length array and seq array with i=1 and j=0
+
+Maximum length of chain pairs----> sort by first then apply least increasing sequence algo using DP
+
+Longest Bitonic subarray in an array take to array one for increment[inc[i]=inc[i-1]+1 if inc seq else 1] and one for decrementinc[i]=inc[i+1]+1 if dec seq else 1 seq then max = max<dec[i]+inc[i]-1 ? dec[i]+inc[i]-1 :max
+
+Minimum number of jumps to reach the end of an array
+Partition Problem
+Subset sum problem
+Minimum Sum Partition problem
+Rod Cutting
+Coin change-making problem (unlimited supply of coins)
+Coin Change Problem – Find total number of ways to get the denomination of coins
+Longest alternating subsequence
+
+
 
