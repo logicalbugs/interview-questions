@@ -1,0 +1,40 @@
+Given an array of arrival and departure time of guests, find minimum no fo rooms required to accommodate guests at any point of time.
+
+Shortest path in a binary maze.
+Find sum of possible combinations of two number without using combinations.
+Maximum water stored in a histogram.  
+Boolean matrix problem.
+Sort array of 0s and 1s in linear time. Do it in one pass.
+What are Strong reference and weak reference
+Services vs intent services
+Cab aggregator design 
+
+Puzzle: Given a square, at each corner you have one thief. Each thief can move to any adjacent side. He can move to left or right. At time t0 every one starts to move with velocity v0.
+What is the probability that any of two thieves collide each other?]
+
+Design Twitter
+1. Sending a tweet
+2. Timeline where to see the tweets of friends and others whome you following
+	- Users
+	- Home
+	- followers
+3. Following
+
+Design bookmyshow
+Design database to display passbook of a bank customer  
+Design uber
+Design messaging queue like JMS
+Design a Bus Booking Database System.
+Designing a generic notification system.
+Design a payment module.
+Design a system which logs all data of Paytm and enable the user to download monthly statements.
+
+Online Test
+
+a) given 2 strings in form of linked list. Tell which one is bigger lexicographically.
+c) Longest Increasing Subsequence.--DP
+
+
+Puzzle
+1. Three balls at each point of a triangle. All balls move with same velocity, and choose any of the 2 directions. waht is the probability that they never meet? ans- 2/8= 1/4.
+2. Three boxes labeled red, blue and read & blue. each box contains balls of red or blue colour. Each box is labeled incorrectly. How can you find the correct label for each box?
